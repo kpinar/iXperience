@@ -1,0 +1,19 @@
+body {
+	background: url("../images/capetown.jpg");
+	background-size: cover;
+	background-position: center;
+}
+div {
+	text-align: center;
+	background: rgba(0,0,0,0.4);
+}
+h1 {
+	font-size: 75px;
+	color: #aaaaaa;
+}
+h3 {
+	color: white;
+}
+p {
+	color: white;
+}

@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Kaan Pinar</title>
+    <link href="stylesheets/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <h1>KP</h1>
+    <img class="img-circle" src="http://imgur.com/UpSVJka.jpg">
+    <h3>University of Pennsylvania 16'</h3>
+    
+    <div class="first">
+      <p><span class="question">Why do you want to learn to code?</span><br/>
+        <small>I wish to learn how to code because it is really hard to find a technical cofounder for startup ideas; and that I need to build them by myself</small></p>
+    </div>
+    <div class="second">
+      <p><span class="question">What are you most excited about in South Africa?</span><br />
+        <small>I'm really excited about skydiving, hiking and having fun with a group of chill people.</small></p>
+    </div>
+    
+    <div class="third">
+      <p><span class="question">What’s one surprising or cool thing about you that others might not know?</span><br />
+        <small>I love traveling and going on an adventure. I've been to 34 countries as of yet, including Iceland, Peru, Jordan etc.</small></p>
+    </div>
+
+    <script>
+      $('div').on('click', function() {
+        $(this).toggleClass('show-description');
+    });
+    </script>
+  </body>
+</html>
