@@ -9,7 +9,7 @@ class WelcomeController < ApplicationController
   		"Austin Rief", "Ben Pachas", "Enrique Pajuelo", "Charlotte Searle", 
   		"Gloryah Allen", "Kate Ernst", "Molly Davey", "Olivia Bicks", 
   		"Pavi Vetriselvan", "Sophie Tao", "Stanley Zuo", "Susana Yepes", 
-  		"Urvish Patel", "Yunny Chung", "Zack Hyman"]
+  		"Urvish Patel", "Yunny Chung", "Zack Hyman", "Dily Lambert"]
   end
 
 end
